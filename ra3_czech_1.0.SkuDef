@@ -1,0 +1,16 @@
+set-exe Data\ra3_1.0.game
+set-search-path big:;.
+add-big Data\MapsCampaign.big
+add-big Data\MapsMultiplayer.big
+add-big Data\MapsTutorial.big
+add-big Data\Czech.big
+add-big Data\EnglishAudio.big
+add-big Data\EnglishMovieAudio.big
+add-big Data\Apt.big
+add-big Data\Terrain.big
+add-big Data\StaticStream.big
+add-big Data\GlobalStream.big
+add-big Data\Libraries.big
+add-big Data\Shaders.big
+add-big Data\Misc.big
+add-big Data\WBData.big

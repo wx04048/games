@@ -1,0 +1,124 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CLASSES_ROOT\battlecastRA3\shell\open\command]
+@="G:\\Red Alert 3\\RA3.exe"
+
+
+
+[HKEY_CURRENT_USER\Software\Electronic Arts\Electronic Arts\Red Alert 3]
+"Language"="chinese_s"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\battlecastRA3\shell\open\command]
+@="G:\\Red Alert 3\\RA3.exe"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\Electronic Arts\Red Alert 3]
+"CD Drive"="I:\\"
+"DisplayName"="Command & Conquer? Red Alert? 3"
+"ProductName"="Command & Conquer? Red Alert? 3"
+"Folder"="C:\\Documents and Settings\\All Users\\「开始」菜单\\程序\\Electronic Arts\\Command & Conquer? Red Alert? 3\\"
+"Install Dir"="G:\\Red Alert 3\\"
+"Installed From"="I:\\"
+"Locale"="en_US"
+"Language"="English (US)"
+"Patch URL"="http://www.ea.com/redalert"
+"Product GUID"="{296D8550-CB06-48E4-9A8B-E5034FB64715}"
+"Suppression Exe"=""
+"Registration"="Software\\Electronic Arts\\Electronic Arts\\Red Alert 3\\ergc"
+"Readme"="G:\\Red Alert 3\\Support\\readme.txt"
+"UseLocalUserMaps"=dword:00000000
+"UserDataLeafName"="Red Alert 3"
+"ScreenshotsFolderName"="Screenshots"
+"ReplayFolderName"="Replays"
+"ProfileFolderName"="Profiles"
+"SaveFolderName"="SaveGames"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\Electronic Arts\Red Alert 3\1.0]
+"DisplayName"="Red Alert 3"
+"Language"=dword:00000001
+"LanguageName"="English (US)"
+"ProgramGroup"="C:\\Documents and Settings\\All Users\\「开始」菜单\\程序\\Electronic Arts\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\Electronic Arts\Red Alert 3\ergc]
+@="FY6EKND6ZONES0000000"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\Red Alert 3]
+"DisplayName"="Command & Conquer? Red Alert? 3"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\RA3.exe]
+@="G:\\Red Alert 3\\RA3.exe"
+"Path"="G:\\Red Alert 3\\"
+"Game Registry"="Software\\Electronic Arts\\Electronic Arts\\Red Alert 3"
+"Installed"=dword:00000001
+"Restart"=dword:00000000
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\GamesToFindOnWindowsUpgrade\{EBF7004C-C6E8-43D8-A8CB-5571DF45819A}]
+"GDFBinaryPath"="G:\\Red Alert 3\\VistaShellSupport.dll"
+"GameInstallPath"="G:\\Red Alert 3\\"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\0558D69260BC4E84A9B85E30F46B7451\InstallProperties]
+"LocalPackage"="C:\\WINDOWS\\Installer\\15398b.msi"
+"AuthorizedCDFPrefix"=""
+"Comments"=""
+"Contact"=""
+"DisplayVersion"="1.0.1.0"
+"HelpLink"=hex(2):47,00,3a,00,5c,00,52,00,65,00,64,00,20,00,41,00,6c,00,65,00,\
+  72,00,74,00,20,00,33,00,5c,00,53,00,75,00,70,00,70,00,6f,00,72,00,74,00,5c,\
+  00,5c,00,45,00,41,00,20,00,48,00,65,00,6c,00,70,00,5c,00,5c,00,45,00,6c,00,\
+  65,00,63,00,74,00,72,00,6f,00,6e,00,69,00,63,00,5f,00,41,00,72,00,74,00,73,\
+  00,5f,00,54,00,65,00,63,00,68,00,6e,00,69,00,63,00,61,00,6c,00,5f,00,53,00,\
+  75,00,70,00,70,00,6f,00,72,00,74,00,2e,00,68,00,74,00,6d,00,00,00
+"HelpTelephone"=""
+"InstallDate"="20081208"
+"InstallLocation"="G:\\Red Alert 3\\"
+"InstallSource"="I:\\"
+"ModifyPath"=hex(2):4d,00,73,00,69,00,45,00,78,00,65,00,63,00,2e,00,65,00,78,\
+  00,65,00,20,00,2f,00,58,00,7b,00,32,00,39,00,36,00,44,00,38,00,35,00,35,00,\
+  30,00,2d,00,43,00,42,00,30,00,36,00,2d,00,34,00,38,00,45,00,34,00,2d,00,39,\
+  00,41,00,38,00,42,00,2d,00,45,00,35,00,30,00,33,00,34,00,46,00,42,00,36,00,\
+  34,00,37,00,31,00,35,00,7d,00,00,00
+"NoModify"=dword:00000001
+"NoRepair"=dword:00000001
+"Publisher"="Electronic Arts"
+"Readme"=hex(2):43,00,3a,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,\
+  00,73,00,20,00,61,00,6e,00,64,00,20,00,53,00,65,00,74,00,74,00,69,00,6e,00,\
+  67,00,73,00,5c,00,41,00,6c,00,6c,00,20,00,55,00,73,00,65,00,72,00,73,00,5c,\
+  00,0c,30,00,5f,cb,59,0d,30,dc,83,55,53,5c,00,0b,7a,8f,5e,5c,00,45,00,6c,00,\
+  65,00,63,00,74,00,72,00,6f,00,6e,00,69,00,63,00,20,00,41,00,72,00,74,00,73,\
+  00,5c,00,43,00,6f,00,6d,00,6d,00,61,00,6e,00,64,00,20,00,26,00,20,00,43,00,\
+  6f,00,6e,00,71,00,75,00,65,00,72,00,22,21,20,00,52,00,65,00,64,00,20,00,41,\
+  00,6c,00,65,00,72,00,74,00,22,21,20,00,33,00,5c,00,52,00,65,00,61,00,64,00,\
+  20,00,4d,00,65,00,2e,00,6c,00,6e,00,6b,00,00,00
+"Size"=""
+"EstimatedSize"=dword:007c2250
+"UninstallString"=hex(2):4d,00,73,00,69,00,45,00,78,00,65,00,63,00,2e,00,65,00,\
+  78,00,65,00,20,00,2f,00,58,00,7b,00,32,00,39,00,36,00,44,00,38,00,35,00,35,\
+  00,30,00,2d,00,43,00,42,00,30,00,36,00,2d,00,34,00,38,00,45,00,34,00,2d,00,\
+  39,00,41,00,38,00,42,00,2d,00,45,00,35,00,30,00,33,00,34,00,46,00,42,00,36,\
+  00,34,00,37,00,31,00,35,00,7d,00,00,00
+"URLInfoAbout"="http://www.ea.com"
+"URLUpdateInfo"="http://www.ea.com/redalert"
+"VersionMajor"=dword:00000001
+"VersionMinor"=dword:00000000
+"WindowsInstaller"=dword:00000001
+"Version"=dword:01000001
+"Language"=dword:00000000
+"DisplayName"="Command & Conquer? Red Alert? 3"
+
+
+
+[HKEY_USERS\S-1-5-21-3853239535-1952086437-795627688-500\Software\Electronic Arts\Electronic Arts\Red Alert 3]
+"Language"="chinese_s"
+

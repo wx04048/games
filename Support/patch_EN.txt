@@ -1,0 +1,41 @@
+==================================================================
+Command & Conquer Red Alert 3
+Version 1.04 Patch Notes - November, 2008
+==================================================================
+
+This patch for Command & Conquer Red Alert 3 improves the 
+reporting of online games to the ladder and player's stats.
+
+This patch also changes player names in online lobbies to 
+be listed alphabetically.
+
+==================================================================
+Command & Conquer Red Alert 3
+Version 1.03 Patch Notes - October, 2008
+==================================================================
+
+This patch for Command & Conquer Red Alert 3 reduces the chance 
+of receiving a black screen when attempting to log online.
+
+==================================================================
+Command & Conquer Red Alert 3
+Version 1.02 Patch Notes - October, 2008
+==================================================================
+
+This patch for Command & Conquer Red Alert 3 reduces the chance 
+of receiving a frozen black screen when entering the Main Menu.
+
+==================================================================
+Command & Conquer Red Alert 3
+Version 1.01 Patch Notes - October, 2008
+==================================================================
+
+This patch for Command & Conquer Red Alert 3 makes improvements 
+to the multiplayer game invite system, which should cause 
+invitations to cooperative and competitive matches to work more 
+reliably.
+
+
+==================================================================
+End of Patch Notes File
+==================================================================

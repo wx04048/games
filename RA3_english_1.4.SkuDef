@@ -1,0 +1,3 @@
+set-exe Data\ra3_1.4.game
+add-big Data\Lang-English4.big
+add-config RA3_english_1.3.SkuDef

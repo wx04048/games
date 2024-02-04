@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/common.css"/>
+	</head>
+	<body>
+		<header>
+			<a class="back" href="javascript:croods.goBack();"></a>
+			<h1>close (关闭页面)</h1>
+			
+		</header>
+		<div class="content">
+			<div class="content-card">
+				<p>● 点击下方按钮即可关闭本页面（注意：关闭后，整个页面都会关闭）</p>
+				<div class="button button-blue">点击关闭</div>
+			</div>
+			
+		</div>
+		<script src="js/lib/zepto.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/lib/croods-1.2.1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/app/common.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			$('.button').on('tap',function(){
+				croods.pageClose();
+			})
+		</script>
+	</body>
+</html>

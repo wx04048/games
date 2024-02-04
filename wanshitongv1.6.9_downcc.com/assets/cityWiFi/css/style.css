@@ -1,0 +1,307 @@
+body {
+	margin: 0;
+	background:#fff;
+}
+ul,li{
+	list-style: none;
+	padding:0;
+	margin:0;
+}
+
+*{
+	cursor: pointer;
+}
+.clearfix:after {
+  content: " ";
+  display: block;
+  clear: both;
+  height: 0;
+}
+.clearfix {
+  zoom: 1;
+}
+.fl{float:left}
+.fr{float:right}
+.hide{display:none !important;}
+
+.mt-10{
+	margin-top: 10px;
+}
+
+.mt-51{
+	margin-top: 51px;
+	padding-top:0.1px;
+}
+
+.title-top{
+	position:fixed;
+	top:0;
+	left:0;
+	height:50px;
+	width:100%;
+	line-height:50px;
+	border-bottom:1px solid #e1e1e1;
+	background:#fff;
+	text-align:center;
+	z-index:9999;
+	font-size:16px;
+}
+
+.back-icon{
+	position: absolute;
+    height: 18px;
+    width: 12px;
+    left: 15px;
+    top: 16px;
+}
+
+.login{
+	width:80%;
+	margin-left:10%;
+	margin-top:60%;
+}
+
+.login div{
+	border-bottom:1px solid #999;
+	margin-top:10px;
+}
+
+.login input{
+	background:inherit;
+	border:none;
+	width:calc(100% - 15px);
+	padding:5px 10px;
+	margin-bottom:0;
+	color:#333;
+	font-size:15px;
+}
+
+.login img{
+	width:15px;
+	height:20px;
+	margin-top:8px;
+}
+
+.hide{
+	display:none;
+}
+
+.android,.ios{
+	position:absolute;
+	display:block;
+	width:80%;
+	left:10%;
+	top:20px;
+}
+
+.mask{
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	background:rgba(0,0,0,0.6);
+}
+
+.login-btn{
+	color:#fff;
+	width:80%;
+	height:50px;
+	line-height:50px;
+	background: linear-gradient(#ff9764,#ff5c57);
+	text-align:center;
+	border-radius:25px;
+	margin:15px auto;
+	margin-left:10%;
+	margin-top:40px;
+}
+
+.login-help{
+	width:80%;
+	margin-left:10%;
+	color:#999;
+	font-size:13px;
+}
+
+.csl-img{
+	width:100%;
+	margin-bottom:15px;
+}
+
+.login-csl{
+	width:25%;
+	margin:10px auto;
+	margin-top:40px;
+	font-size:13px;
+	color:#999;
+	text-align:center;
+}
+
+.wifi-top{
+	width:48%;
+	display:block;
+	margin:10px auto;
+}
+
+.wifi-text{
+	width:80%;
+	margin:20px auto;
+	color:#fff;
+	font-size:13px;
+	line-height:25px;
+	text-align:center;
+}
+
+.bz-box{
+	width:80%;
+	background:#fff;
+	border-radius:15px;
+	margin:20px auto;
+	height:auto;
+	background:url(../images/box-bg.png) no-repeat #fff;
+	background-position:0 100%;
+	background-size:100% 40px;
+}
+
+
+
+.mui-slider .mui-slider-group .mui-slider-item img{
+	width:60%;
+	margin:0 auto;
+	display:block;
+	margin-bottom: 10px;
+}
+
+.mui-slider .mui-slider-group .mui-slider-item img.item-top{
+	width:70%;
+	margin:20px auto;
+	display:block;
+}
+.item-text{
+	color:#ff8e62;
+	text-align:center;
+}
+
+.mui-slider .mui-slider-group .mui-slider-item{
+	height:auto;
+	padding-bottom:40px;
+}
+
+
+
+.item-btn{
+	width:70%;
+	color:#fff;
+	text-align:center;
+	background:#ff8e62;
+	margin:10px auto;
+	height:25px;
+	font-size:14px;
+	line-height:25px;
+	font-weight:600;
+	margin-bottom:0;
+	border-radius:6px;
+}
+
+.mui-slider-indicator .mui-indicator{
+	background:inherit;
+	box-shadow:0 0 1px 1px #ff8e62;
+}
+
+.mui-slider-indicator .mui-active.mui-indicator{
+	background:#ff8e62;
+}
+
+.mui-slider-indicator{
+	bottom:15px;
+}
+
+.online-btn{
+	width:80%;
+	background:#fff;
+	font-size:16px;
+	text-align:center;
+	margin:25px auto;
+	height:48px;
+	line-height:48px;
+	border-radius:4px;
+	color:#ff5f58;
+	font-weight:600;
+}
+
+.color-bg{
+	background-image: -webkit-linear-gradient(bottom, #ff5f58, #ff9764);
+    -webkit-background-clip: text;
+  color: transparent;
+}
+
+.find-area{
+	color:#fff;
+	font-size:14px;
+	text-align:center;
+	margin-bottom:20px;
+}
+
+.help-img{
+	width:80%;
+	display:block;
+	margin:25px auto;
+}
+
+.help-text{
+	color:#333;
+	text-align:center;
+	font-size:14px;
+	line-height:25px;
+}
+
+.mb-5{
+	margin-bottom:5px;
+}
+
+.question-ul{
+	width:88%;
+	margin:20px auto;
+	font-size:14px;
+}
+
+.question-li{
+	height:45px;
+	line-height:45px;
+	color:#333;
+	border-bottom:1px solid #e1e1e1;
+	background:url(../images/right.png) no-repeat;
+	background-size:15px 18px;
+	background-position:right;
+}
+
+.question-li:last-child{
+	border-bottom:none;
+}
+
+.contact-btn{
+	width:80px;
+	text-align:center;
+	color:#fff;
+	font-size:14px;
+	line-height:25px;
+	margin:20px auto;
+	background:#ff8e62;
+	border-radius:4px;
+}
+
+.ts-text{
+	width:80%;
+	color:#666;
+	font-size:14px;
+	line-height:25px;
+	margin:0 auto;
+}
+
+.sucess{
+	width:120px;
+	height:120px;
+	margin:40px auto;
+	margin-top:80px;
+	display:block;
+}

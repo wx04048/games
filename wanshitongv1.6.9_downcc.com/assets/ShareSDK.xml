@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+<SinaWeibo SortId="4" AppKey="3525244079" AppSecret="c2bde925ba0bc5c3c95cdd0ecec0cd00" ShareByAppClient="true" Enable="true" RedirectUrl="http://open.weibo.com/apps/3525244079/privilege/oauth" />
+<TencentWeibo Enable="false" />
+<Douban Enable="false" />
+<QZone Id="3" SortId="3" AppId="1107817147" AppKey="YeOfOhoE4TMqtivYf" ShareByAppClient="true" BypassApproval="false" Enable="true" />
+<Renren Enable="false" />
+<KaiXin Enable="false" />
+<Facebook Enable="false" />
+<Twitter Enable="false" />
+<Evernote Enable="false" />
+<FourSquare Enable="false" />
+<GooglePlus Enable="false" />
+<Instagram Enable="false" />
+<LinkedIn Enable="false" />
+<Tumblr Enable="false" />
+<Email Enable="false" />
+<ShortMessage Id="13" SortId="13" Enable="true" />
+<Wechat SortId="1" AppId="wxd84224bab2d83b16" AppSecret="059f4bd6580c8b73456aa587547f3db6" Enable="true" />
+<WechatMoments SortId="2" AppId="wxd84224bab2d83b16" AppSecret="059f4bd6580c8b73456aa587547f3db6" Enable="true" />
+<QQ SortId="3" AppId="1107817147" AppKey="YeOfOhoE4TMqtivYf" ShareByAppClient="true" Enable="true" />
+<Instapaper Enable="false" />
+<Pocket Enable="false" />
+<YouDao Enable="false" />
+<Pinterest Enable="false" />
+<Flickr Enable="false" />
+<Dropbox Enable="false" />
+<VKontakte Enable="false" />
+<WechatFavorite Id="6" SortId="6" AppId="wxd84224bab2d83b16" AppSecret="059f4bd6580c8b73456aa587547f3db6" BypassApproval="false" Enable="true" />
+<Yixin Enable="false" />
+<YixinMoments Enable="false" />
+<Mingdao Enable="false" />
+<Line Enable="false" />
+<WhatsApp Enable="false" />
+<KakaoTalk Enable="false" />
+<KakaoStory Enable="false" />
+<FacebookMessenger Enable="false" />
+<Alipay Enable="false" />
+<AlipayMoments Enable="false" />
+<Dingding Enable="false" />
+<Youtube Enable="false" />
+<Meipai Enable="false" />
+<Telegram Enable="false" />
+<Cmcc Enable="false" />
+<Reddit Enable="false" />
+<Telecom Enable="false" />
+<Accountkit Enable="false" />
+<Douyin Enable="false" />
+<Wework Enable="false" />
+<HWAccount Enable="false" />
+</DevInfor>
